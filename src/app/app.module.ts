@@ -10,7 +10,7 @@ import { HeroesComponent } from './heroes/heroes.component';
 @NgModule({
   declarations: [
     AppComponent,
-    XyzComponent,
+    XyzComponent, 
     HeroesComponent
   ],
   imports: [
